@@ -1,0 +1,22 @@
+*{
+    background-color: rgb(209, 201, 190);
+    text-align: justify;
+}
+
+
+h1{
+    background-color: rgb(194, 168, 135);
+    padding: 10px;
+    text-align: center;
+    border: 5px solid black;
+}
+
+#pic{
+    width:25%;
+    border: 7px solid rgb(27, 14, 14);
+    padding: 5px;
+    background-color: black;
+    margin-left: 265px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
